@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.8.27-r1 (XXXX/XX/XX)
+
+* Add `SMTP_ALLOW_FROM_OVERRIDE` env var
+
 ## 1.8.26-r0 (2024/05/01)
 
 * msmtp 1.8.26 (#73)
